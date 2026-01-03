@@ -1,0 +1,9 @@
+{
+  "name": "easetime-andika",
+  "framework": "react",
+  "language": "typescript",
+  "buildCommand": "tsc && vite build",
+  "startCommand": "npm run dev",
+  "domain": "easetime",
+  "email": "24523092@students.uii.ac.id"
+}
