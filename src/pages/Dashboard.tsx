@@ -73,7 +73,7 @@ const Dashboard = () => {
               className="inline-flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-500 text-white rounded-xl hover:from-blue-700 hover:to-blue-600 shadow-lg hover:shadow-xl transition-all"
             >
               <Upload size={20} />
-              <span>Upload & Scan Jadwal</span>
+              <span>Upload dan Scan Jadwal</span>
             </Link>
           </div>
         </motion.div>
